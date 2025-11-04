@@ -1,0 +1,8 @@
+streamlit         # Ana uygulama framework'ü
+requests          # API çağrıları için (Retry mekanizması buna bağlı)
+urllib3           # requests ve Retry mekanizması için kullanılır
+pandas            # Veri işleme (DataFrame'ler) için
+numpy             # Sayısal işlemler ve rastgele veri üretimi için
+plotly            # Grafik çizimi için (plotly.express)
+folium            # Harita oluşturma için (Son hatanız buradan geldi)
+streamlit-folium  # folium haritalarını Streamlit'te göstermek için
